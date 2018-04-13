@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "518057629003",
+    "firebase_url": "https://think-d50c7.firebaseio.com",
+    "project_id": "think-d50c7",
+    "storage_bucket": "think-d50c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518057629003:android:edc666b9c783b548",
+        "android_client_info": {
+          "package_name": "com.hybrid.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518057629003-5tt3fvl7teuecvdan0jjqen2dvusqrus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARb3If_YXQmujZJEX2P9NvRC7Jkr7HsLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
